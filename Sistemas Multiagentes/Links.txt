@@ -1,0 +1,89 @@
+[1] https://youtu.be/hyGJBV1xnJI
+
+
+[2] https://ricardomatsumura.medium.com/sistemas-multiagentes-b65af9636e21
+
+
+Referencias
+
+
+1.Luck, M., McBurney, P., Shehory, Onn, Willmott, S. “Agent Technology: Computing as interaction. A Roadmap to Agent Based Computing”. Agentlink, 2005. ISBN 085432 845 9 [ ] 2 Wooldridge M “Introduction to Multiagent Systems” John Wiley [ ]
+
+2. Wooldridge, M. Introduction to Multiagent Systems . John Wiley and Sons, 2002.
+
+3. Russell, S. & Norvig, P. “Artificial Intelligence: A Modern Approach” Prentice-Hall Series in Artificial Intelligence. 2009 ISBN 0-13-103805-2
+
+4. Haddadi, A. “Communication and Cooperation in Agent Systems: A Pragmatic Theory” Lecture Notes in Artificial Intelligence #1056. Springer-Verlag. 1996. ISBN 3-540-61044-8 [ ] [ ] [ ]1.Introduction jvazquez@lsi.upc.edu 66
+
+5. Rosenschein, J. & Zlotkin, G. “Rules of Encounter. Designing Conventions for Automated Negotiation among Computers”. MIT Press. 1994 ISBN 0-262-18159-2 6. Weiss, G. “Multiagent Systems: A modern Approach to Distributed Artificial Intelligence”. MIT Press. 1999. ISBN 0262-23203
+
+
+
+
+Simuladores Agentes
+
+http://nossosrobos.blogspot.com/2015/08/rosos-simulador-gratuito-de-futebol-de.html
+
+https://classic.gazebosim.org/download
+
+https://www.ricardoteix.com/v-rep-plataforma-virtual-para-experimentos-com-robos/
+
+https://youtu.be/_LHL_mZ4VGo
+
+https://youtu.be/pbEDccC2I5U
+
+
+
+Ferramentas De Desenvolvimento
+Aglet - Sistema para desenvolvimento de agentes moveis desenvolvido pela IBM.
+Cougaar - Plataforma para desenvolvimento de Sistemas Multiagente.
+CORMAS - (COmmon Resources Multi-Agent System) é um framework de Desenvolvimento de Sistemas Multiagente, open-source e baseado em programação orientada a objeto SmallTalk. Espacializada, a plataforma se concentra em questões relacionadas com a gestão dos recursos naturais e com a negociação entre atores.
+GAMA PLATAFORM - Plataforma para o desenvolvimento modelos e simulações multiagente, utiliza a linguagem GAML de facil compreensão. Aceita arquivos de GIS. Tem plugins para a utilização de BDI e outros.
+Jack - Kit de desenvolvimento comercial de agentes.
+JADE - Java Agent Development Environment
+Jason - LGPL Framework para desenvolvimento de agentes BDI utilizando AgentSpeak(L).
+NetLogo - Plataforma para o desenvolvimento de sistemas multiagentes criada em 1999 em uma universidade americana. É a mais difundida, com uma grande base de usuários e exemplos na biblioteca.
+MAELIA - Plataforma desenvolvida no GAMA, tem como principal objetivo analisar interações sócio-hidrológicas.
+SemanticAgent - JAVA/SWRL open source Framework.
+SeSAm - SeSAm (Shell for Simulated Agent Systems) é um ambiente para simulação de sistemas multiagente reativos.
+
+--------------------------------------------
+Sistemas Baseados em Enxames
+
+https://youtu.be/gkGa6WZpcQg
+
+https://youtu.be/hXUCCRiNBOc
+
+https://stringfixer.com/pt/Artificial_swarm_intelligence
+
+https://stringfixer.com/pt/Boids
+
+https://youtu.be/ikahweMMGCM
+
+https://youtu.be/vG-QZOTc5_Q
+
+
+Dicas de livros sobre o tema:
+
+BROWNLEE, Jason. Clever Algorithms: Nature-Inspired Programming Recipes. Jason Brownlee, 2011. http://amzn.to/1UxH889
+
+BONABEAU, Eric; DORIGO, Marco; THERAULAZ, Guy. Swarm Intelligence: From Natural to Artificial Systems. Oxford University Press, 1999. http://amzn.to/23nGGug
+
+DORIGO, Marco; STÜTZLE, Thomas. Ant Colony Optimization. Bradford Books, 2004. http://amzn.to/1W67ekI
+
+BREVE, Fabricio; ZHAO, Liang; QUILES, Marcos G.; PEDRYCZ, Witold; LIU, Jimming. “Particle competition and cooperation in networks for semi-supervised learning”. Knowledge and Data Engineering, IEEE Transactions on, 2012.
+
+BROWNLEE, Jason. Clever Algorithms: Nature-Inspired Programming Recipes. Jason Brownlee, 2011. http://amzn.to/1UxH889
+
+BONABEAU, Eric; DORIGO, Marco; THERAULAZ, Guy. Swarm Intelligence: From Natural to Artificial Systems. Oxford University Press, 1999. http://amzn.to/23nGGug
+
+DORIGO, Marco; STÜTZLE, Thomas. Ant Colony Optimization. Bradford Books, 2004. http://amzn.to/1W67ekI
+
+---------------------------------------------------
+1ª Prova
+
+https://youtu.be/W95YlM5-iPk   - Introdução
+
+https://youtu.be/37w9HJxsisI
+
+
